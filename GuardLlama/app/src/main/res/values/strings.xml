@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GuardLlama</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_appearance">AppearanceActivity</string>
+    
+    <string-array name="ethnicity" >
+        <item>Caucasian</item>
+        <item>African American</item>
+        <item>Asian</item>
+        <item>Hispanic</item>
+        <item>Middle-Eastern/Indian</item>
+        <item>Native American</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
